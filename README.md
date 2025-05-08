@@ -1,5 +1,5 @@
 
-# 🧠 <h1 align="center" id="title">Understanding TypeScript: Key Concepts and Best Practices</h1>
+# 🧠 Understanding TypeScript: Key Concepts and Best Practices
 
 
 TypeScript is an open-source programming language developed by Microsoft in 2012 as a superset of JavaScript. This means it contains all of JavaScript but with more features. Developers no longer have to check for errors whenever changes are made manually. TypeScript is more than just a superset of JavaScript—it’s a powerful tool that enhances developer experience, improves code reliability, supports large-scale application development , It's primary purpose is to improve productivity when developing complex applications.
